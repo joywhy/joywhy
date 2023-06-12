@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi there👋 &fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="EunHee Lee"&fontSize=90" />
 ### EunHee's Github 👋
 
 ## Tech Stack
