@@ -1,7 +1,8 @@
-### EunHee's Github 👋
+### EunHee Lee 👋
 
-## Tech Stack
+
 <div align="center">
+	<h2>Tech Stack</h2>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-007396?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
