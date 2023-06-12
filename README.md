@@ -10,7 +10,7 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joywhy&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=joywhy&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=joywhy&show_icons=true"> -->
 
 <!--
 **joywhy/joywhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
