@@ -5,6 +5,8 @@
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
  	<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+
+  <br/> <br/> 
 	
 </div>
  <img src="https://github-readme-stats.vercel.app/api?username=joywhy&show_icons=true"> 
